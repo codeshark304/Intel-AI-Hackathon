@@ -6,7 +6,7 @@ Team Lead: Monish Kiran A
 Email: monishkiran304@gmail.com
 
 # Problem Statement
-Memory Optimisation in android phones using AI/ML.
+Memory Optimisation in Android Phones using AI/ML.
 
 # Description
 The performance of an android phone is determined by the architecute and the memory associated with it. Irrespective of the architecture, for any android phone the average memory access time can be made small, which increases the phone's performance. The cache memory blocks are responsible to make the AMAT low as possible. 
@@ -35,11 +35,10 @@ With the heuristic parameters and the long run usage datasets, the MODEL will pr
 
 # Experiments
 
-# Usecase of Intel Developer Cloud
+# Intel Developer Cloud
 
 # Output
-
-# Future Scope
+![WhatsApp Image 2024-03-28 at 17 04 08_016ce9be](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/cd00f39c-fdf8-4002-b50d-3d133d84ae09)
 
 # Tech Stacks used:
 
