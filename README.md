@@ -1,7 +1,9 @@
 # Intel-AI-Hackathon
-Team Name: THE 404.
-Team Lead: Monish Kiran A.   Email:monishkiran304@gmail.com
-Intel toolkits ...
+Team Name: THE 404. 
+
+Team Lead: Monish Kiran A.    
+
+Email: monishkiran304@gmail.com
 
 # Problem Statement
 Memory Optimisation in android phones using AI/ML.
@@ -22,9 +24,11 @@ With the heuristic parameters and the long run usage datasets, the MODEL will pr
 
 # Virtual Demonstration
 
-# Intel AI Analytics Toolkits
+# Intel AI Analytics Toolkits:
 ![288444454-c4da56ab-906a-4aa3-b3cd-47f93e3f7b59](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/fa9d030a-6876-4561-ba6b-331b03eea395)
 ![download](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/24f4e04e-4c06-47af-bab7-379433f579d7)
+![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/58d818b3-641d-492c-9801-88cfe0062567)
+
 
 # Model Training
 
