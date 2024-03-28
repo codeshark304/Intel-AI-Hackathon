@@ -14,6 +14,7 @@ The model will be optimising the miss rate of the cache memory blocks to enhance
 
 # Explanation - Idea
 The cache memory blocks are small blocks of memory which stores data that needs to be frequently accessed. The cache don't always have an hit rate of 100%. The first cache miss is called as compulsory or cold miss. The first cold miss is inevitable as the cache block is loaded for the first time. The seconf d miss is called capacity and the third miss is called as conflict. The model will be predicting the miss rate types and predicitng the miss rate. With the miss rate percentage, we will calculate the hit rate and the performance of the phone.  
+
 ![WhatsApp Image 2024-03-26 at 13 27 51_0b1d35d9](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/806e0d91-0f89-442a-9f1b-9121471ba055)  
 
 Reference: Department of Computer Science, University of Maryland.
