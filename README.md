@@ -38,9 +38,25 @@ With the heuristic parameters and the long run usage datasets, the MODEL will pr
 # Intel Developer Cloud
 
 # Output
-![WhatsApp Image 2024-03-28 at 17 04 08_016ce9be](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/cd00f39c-fdf8-4002-b50d-3d133d84ae09)
+An Android App called MemoryMate is created which will display the predictions done by the model under the Memory Management tab. This tab will show the performance graph of the android phone along with the X variables ie Cache blocks, associativity and the y varaible ie conflict(3rd miss) and the miss rate. 
 
+![WhatsApp Image 2024-03-28 at 17 06 36_65498253](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/93e5c88b-f2e6-4198-a02f-5bd52ab9a2e7)
+
+Under the Verdict tab, the final verdict of the android phone along with the indicators will be displayed.
 # Tech Stacks used:
+
 
 # Conclusion
 
+Optimizing cache memory in Android phones is important for several reasons:
+
+	•  Improved Performance: Cache memory stores frequently accessed data and app components. By optimizing cache usage, Android devices can retrieve this data quickly, leading to improved performance and faster response times for apps and system operations.
+
+	•  Reduced Data Usage: Efficient cache management can help reduce the amount of data that apps need to download from the internet repeatedly. This not only speeds up app loading times but also conserves mobile data, which is crucial for users on limited data plans.
+	•  Storage Space Management: Cache data can accumulate over time and consume significant storage space on the device. By optimizing cache usage, you can prevent unnecessary clutter and free up storage for other important data and apps.
+	• Battery Life: Accessing data from cache memory is less resource-intensive than fetching it from the internet or storage. Therefore, efficient cache management can contribute to better battery life by reducing the overall workload on the device's CPU and network components.
+	• Enhanced User Experience: A smoother and more responsive user experience is directly influenced by how efficiently an Android device manages its resources, including cache memory. Optimizing cache usage contributes to a seamless and enjoyable user experience with minimal delays and interruptions.
+
+Overall, optimizing cache memory in Android phones is essential for maximizing performance, reducing data usage, managing storage space effectively, improving battery life, and delivering a superior user experience.
+
+![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/75816257-8855-49b3-9079-6643de44ddd3)
