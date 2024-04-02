@@ -9,8 +9,7 @@ Email: monishkiran304@gmail.com
 Memory Optimisation in Android Phones using AI/ML.
 
 # Description
-The performance of an android phone is determined by the architecute and the memory associated with it. Irrespective of the architecture, for any android phone the average memory access time can be made small, which increases the phone's performance. The cache memory blocks are responsible to make the AMAT low as possible. 
-The model will be optimising the miss rate of the cache memory blocks to enhance the performance.
+The performance of an Android phone is determined by the architecture and the memory management, especially the cache memory utilization. Irrespective of the architecture, for any Android phone the average memory access time (AMAT) can be minimized, thereby enhancing the overall performance of the device. This hackathon idea aims to develop a predictive model to optimize cache memory block utilization, minimize the miss rate and improve Android phone performance.
 
 # Explanation - Idea
 The cache memory blocks are small blocks of memory which stores data that needs to be frequently accessed. The cache don't always have an hit rate of 100%. The first cache miss is called as compulsory or cold miss. The first cold miss is inevitable as the cache block is loaded for the first time. The seconf d miss is called capacity and the third miss is called as conflict. The model will be predicting the miss rate types and predicitng the miss rate. With the miss rate percentage, we will calculate the hit rate and the performance of the phone.  
