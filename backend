@@ -1,1 +1,30 @@
+class MainActivity : AppCompatActivity() {
 
+    private lateinit var speedText: TextView
+    private lateinit var optimizeButton: Button
+    private lateinit var textBox: EditText
+    private lateinit var phoneManagementButton: Button
+    private lateinit var verdictButton: Button
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        speedText = findViewById(R.id.speed_text)
+        optimizeButton = findViewById(R.id.optimize_button)
+        textBox = findViewById(R.id.text_box)
+        phoneManagementButton = findViewById(R.id.phone_management_button)
+        verdictButton = findViewById(R.id.verdict_button)
+
+        // Set click listeners for buttons (implement functionality here)
+        optimizeButton.setOnClickListener {
+            // Handle optimize button click
+        }
+        phoneManagementButton.setOnClickListener {
+            // Handle phone management button click
+        }
+        verdictButton.setOnClickListener {
+            // Handle verdict button click
+        }
+    }
+}
