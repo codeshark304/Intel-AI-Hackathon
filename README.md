@@ -46,30 +46,47 @@ With and Without Intel OneAPI
 
 # Output
 "MemoryMate" an Android Mobile app is designed to analyse and optimize cache performance on a device. The app, built with Kotlin, will leverage machine learning to identify usage patterns and suggest cache configuration improvements for a better hit rate.
+
 The application will offer the following functionalities:
+
 •	Cache Performance Monitoring: Display key cache metrics like hit rate, miss rate, and capacity utilization.
+
 •	Pattern Analysis: Utilize machine learning algorithms to analyze user access patterns and identify spatial and temporal locality trends.
+
 •	Optimization Recommendations: Based on the analysis, suggest potential cache configuration adjustments like size or associativity to improve the hit rate.
+
 •	Hardware Consideration: Factor in device hardware specifications like main memory size, storage capacity, and processor speed during optimization recommendations.
 
 Development Platform: Kotlin (Android)
+
 Machine Learning Model: The specific model selection will depend on chosen libraries and desired functionalities. Potential options include:
+
 •	Markov Chain Models: Can effectively capture temporal locality by predicting future data access based on past sequences.
+
 •	K-Nearest Neighbors (KNN): Useful for identifying similar access patterns and suggesting configurations that worked well in those scenarios.
+
 •	Data Acquisition: The app can access cache performance metrics through system APIs provided by the Android platform.
 
 The application will consider the following cache optimization principles:
+
 Spatial Locality: Programs tend to access data that is physically close together in memory. The app can analyze access patterns to identify frequently accessed data clusters and ensure they reside in the same cache line, improving hit rates.
+
 Temporal Locality: Programs are more likely to access data recently used. The app's machine learning model can predict future access patterns based on recent usage and prioritize storing that data in the cache.
 
 The app will generate reports summarizing:
+
 •	Current cache performance metrics (hit rate, miss rate, and capacity utilization).
+
 •	Identified access patterns and their impact on cache efficiency.
+
 •	Recommended cache configuration adjustments for optimal hit rate.
 
 This application can benefit users by:
+
 •	Improving device performance: A higher cache hit rate leads to faster data access and a smoother user experience.
+
 •	Extending battery life: Reduced reliance on main memory access can improve battery efficiency.
+
 •	Providing actionable insights: Users gain a deeper understanding of their app's data access patterns and can optimize cache settings accordingly.
 
 # Conclusion
