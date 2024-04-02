@@ -31,9 +31,9 @@ Reference:![WhatsApp Image 2024-03-26 at 13 27 51_fc46f22d](https://github.com/c
 
 
 # Intel AI Analytics Toolkits:
-![288444454-c4da56ab-906a-4aa3-b3cd-47f93e3f7b59](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/fa9d030a-6876-4561-ba6b-331b03eea395)
-![download](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/24f4e04e-4c06-47af-bab7-379433f579d7)
-![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/58d818b3-641d-492c-9801-88cfe0062567)
+
+![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/72cb9ea4-3f4d-47a3-9ccc-63b7ab31ffb1)
+
 
 scikit-learn* , OneDAL, pandas, numpy, XGBoost
 
