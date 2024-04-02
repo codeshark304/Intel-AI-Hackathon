@@ -32,7 +32,7 @@ Reference:
 ![WhatsApp Image 2024-03-26 at 13 27 51_fc46f22d](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/02487f06-18bc-499b-8bad-654459020fee)
 
 
-# Intel AI Analytics Toolkits:
+# Intel AI Analytics Toolkits Used:
 
 ![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/72cb9ea4-3f4d-47a3-9ccc-63b7ab31ffb1)
 
@@ -40,7 +40,7 @@ Reference:
 scikit-learn* , OneDAL, pandas, numpy, XGBoost
 
 
-# Intel Developer Cloud
+# Intel Developer Cloud:
 
 Processor used: 5th Generation Intel Xeon Scalable Processors
 
