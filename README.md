@@ -48,6 +48,18 @@ With and Without Intel OneAPI:
 
 ![image](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/86fafc9f-39b1-42e4-8214-de611be9e079)
 
+# MemoryMate - A Predictive Tool for Memory Management in Android Phones
+
+
+Frontend:
+
+
+![WhatsApp Image 2024-03-28 at 17 06 36_81f7250b](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/f3e797b4-a203-4140-92ef-803f300800e9)
+
+
+Backend:
+
+Displays the miss rate and cache memory performance of the phone from the ML model to the app.
 
 # Output
 "MemoryMate" an Android Mobile app is designed to analyse and optimize cache performance on a device. The app, built with Kotlin, will leverage machine learning to identify usage patterns and suggest cache configuration improvements for a better hit rate.
