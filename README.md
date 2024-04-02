@@ -27,7 +27,9 @@ With the heuristic parameters and the long run usage datasets, the MODEL will pr
 # Dataset
 https://drive.google.com/file/d/18ZHB-tUi5Ch3oLit8ylyAghGyNs-5_38/view?usp=sharing
 
-Reference:![WhatsApp Image 2024-03-26 at 13 27 51_fc46f22d](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/02487f06-18bc-499b-8bad-654459020fee)
+Reference:
+
+![WhatsApp Image 2024-03-26 at 13 27 51_fc46f22d](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/02487f06-18bc-499b-8bad-654459020fee)
 
 
 # Intel AI Analytics Toolkits:
