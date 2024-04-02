@@ -19,8 +19,6 @@ Video Explanation:
 https://drive.google.com/file/d/1ciQiYCfZhpjSGJblNwQnRpmXMVyEfY5z/view?usp=sharing
 
 
- 
-
 # Explanation - Algorithm
 Random Forest Regressor is being used here. A random forest is a meta estimator that fits a number of decision tree regressors on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. Trees in the forest use the best split strategy, i.e. equivalent to passing splitter="best" to the underlying DecisionTreeRegressor. The sub-sample size is controlled with the max_samples parameter if bootstrap=True (default), otherwise the whole dataset is used to build each tree.
 With the heuristic parameters and the long run usage datasets, the MODEL will predict the cache memory usage and its performance.
@@ -28,6 +26,7 @@ With the heuristic parameters and the long run usage datasets, the MODEL will pr
 
 # Dataset
 https://drive.google.com/file/d/18ZHB-tUi5Ch3oLit8ylyAghGyNs-5_38/view?usp=sharing
+
 Reference:![WhatsApp Image 2024-03-26 at 13 27 51_fc46f22d](https://github.com/codeshark304/Intel-AI-Hackathon/assets/116503676/02487f06-18bc-499b-8bad-654459020fee)
 
 
@@ -72,8 +71,6 @@ This application can benefit users by:
 •	Improving device performance: A higher cache hit rate leads to faster data access and a smoother user experience.
 •	Extending battery life: Reduced reliance on main memory access can improve battery efficiency.
 •	Providing actionable insights: Users gain a deeper understanding of their app's data access patterns and can optimize cache settings accordingly.
-
-
 
 # Conclusion
 
