@@ -1,5 +1,3 @@
-//This is the sample code. We are yet to add code on the Backend part.
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var speedText: TextView
